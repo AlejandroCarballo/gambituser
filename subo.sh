@@ -3,4 +3,4 @@ git commit -m "ultimo commit"
 git push
 go build main.go
 rm main.zip
-zip -r main.zip -i main
+zip main.zip main
