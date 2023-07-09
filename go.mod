@@ -1,4 +1,4 @@
-module gambituser
+module main
 
 go 1.19
 
