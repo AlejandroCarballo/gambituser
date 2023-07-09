@@ -8,7 +8,7 @@ import (
 	"gambituser/bd"
 	"gambituser/models"
 	"github.com/aws/aws-lambda-go/events"
-	lambda "github.com/aws/aws-lambda-go/lambda"
+	"github.com/aws/aws-lambda-go/lambda"
 	"os"
 )
 
